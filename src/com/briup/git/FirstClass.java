@@ -11,6 +11,7 @@ public class FirstClass {
         FirstClass f = new FirstClass();
         f.test(name);
     }
+    //注释
     public void test( String name){
         System.out.println(name+"帅哥！");
     }
